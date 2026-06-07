@@ -1,30 +1,30 @@
-2026-06-07 14:59:02,526 [INFO] agent: OPENAI_API_KEY not found. Using keyword-based classifier.
-2026-06-07 14:59:02,578 [INFO] database: Initialized SQLite database at database\tickets.db with table 'ticket_triage'
-2026-06-07 14:59:02,578 [INFO] MainRunner: Tickets directory 'tickets' already contains files. Skipping sample generation.
-2026-06-07 14:59:02,578 [INFO] MainRunner: Executing initial offline batch ticket triage...
-2026-06-07 14:59:02,579 [INFO] MainRunner: Found 21 ticket file(s) in 'tickets'. Starting triage processing...
-2026-06-07 14:59:02,579 [INFO] MainRunner: Processing ticket file: T001.json
-2026-06-07 14:59:02,601 [INFO] MainRunner: Processing ticket file: T002.json
-2026-06-07 14:59:02,628 [INFO] MainRunner: Processing ticket file: T003.json
-2026-06-07 14:59:02,650 [INFO] MainRunner: Processing ticket file: T004.json
-2026-06-07 14:59:02,674 [INFO] MainRunner: Processing ticket file: T005.json
-2026-06-07 14:59:02,700 [INFO] MainRunner: Processing ticket file: T006.json
-2026-06-07 14:59:02,727 [INFO] MainRunner: Processing ticket file: T007.json
-2026-06-07 14:59:02,755 [INFO] MainRunner: Processing ticket file: T008.json
-2026-06-07 14:59:02,785 [INFO] MainRunner: Processing ticket file: T009.json
-2026-06-07 14:59:02,825 [INFO] MainRunner: Processing ticket file: T010.json
-2026-06-07 14:59:02,856 [INFO] MainRunner: Processing ticket file: T011.json
-2026-06-07 14:59:02,883 [INFO] MainRunner: Processing ticket file: T012.json
-2026-06-07 14:59:02,906 [INFO] MainRunner: Processing ticket file: T013.json
-2026-06-07 14:59:02,933 [INFO] MainRunner: Processing ticket file: T014.json
-2026-06-07 14:59:02,972 [INFO] MainRunner: Processing ticket file: T015.json
-2026-06-07 14:59:03,001 [INFO] MainRunner: Processing ticket file: T016.json
-2026-06-07 14:59:03,036 [INFO] MainRunner: Processing ticket file: T017.json
-2026-06-07 14:59:03,059 [INFO] MainRunner: Processing ticket file: T018.json
-2026-06-07 14:59:03,083 [INFO] MainRunner: Processing ticket file: T019.json
-2026-06-07 14:59:03,114 [INFO] MainRunner: Processing ticket file: T020.json
-2026-06-07 14:59:03,144 [INFO] MainRunner: Processing ticket file: T021_invalid.json
-2026-06-07 14:59:03,160 [ERROR] MainRunner: Invalid JSON file T021_invalid.json: Unterminated string starting at: line 4 column 18 (char 73). Skipping.
-2026-06-07 14:59:03,161 [INFO] MainRunner: Successfully wrote 20 results to output\results.csv
-2026-06-07 14:59:03,162 [INFO] MainRunner: Saved classification report to output\report.txt
-2026-06-07 14:59:03,164 [INFO] MainRunner: Starting web dashboard server at http://127.0.0.1:8000 ...
+2026-06-07 20:34:30,510 [INFO] agent: OPENAI_API_KEY not found. Using keyword-based classifier.
+2026-06-07 20:34:30,537 [INFO] database: Initialized SQLite database at database\tickets.db with table 'ticket_triage'
+2026-06-07 20:34:30,537 [INFO] MainRunner: Tickets directory 'tickets' already contains files. Skipping sample generation.
+2026-06-07 20:34:30,537 [INFO] MainRunner: Executing initial offline batch ticket triage...
+2026-06-07 20:34:30,538 [INFO] MainRunner: Found 21 ticket file(s) in 'tickets'. Starting triage processing...
+2026-06-07 20:34:30,538 [INFO] MainRunner: Processing ticket file: T001.json
+2026-06-07 20:34:30,551 [INFO] MainRunner: Processing ticket file: T002.json
+2026-06-07 20:34:30,566 [INFO] MainRunner: Processing ticket file: T003.json
+2026-06-07 20:34:30,582 [INFO] MainRunner: Processing ticket file: T004.json
+2026-06-07 20:34:30,593 [INFO] MainRunner: Processing ticket file: T005.json
+2026-06-07 20:34:30,605 [INFO] MainRunner: Processing ticket file: T006.json
+2026-06-07 20:34:30,618 [INFO] MainRunner: Processing ticket file: T007.json
+2026-06-07 20:34:30,636 [INFO] MainRunner: Processing ticket file: T008.json
+2026-06-07 20:34:30,647 [INFO] MainRunner: Processing ticket file: T009.json
+2026-06-07 20:34:30,660 [INFO] MainRunner: Processing ticket file: T010.json
+2026-06-07 20:34:30,670 [INFO] MainRunner: Processing ticket file: T011.json
+2026-06-07 20:34:30,679 [INFO] MainRunner: Processing ticket file: T012.json
+2026-06-07 20:34:30,688 [INFO] MainRunner: Processing ticket file: T013.json
+2026-06-07 20:34:30,698 [INFO] MainRunner: Processing ticket file: T014.json
+2026-06-07 20:34:30,710 [INFO] MainRunner: Processing ticket file: T015.json
+2026-06-07 20:34:30,720 [INFO] MainRunner: Processing ticket file: T016.json
+2026-06-07 20:34:30,730 [INFO] MainRunner: Processing ticket file: T017.json
+2026-06-07 20:34:30,740 [INFO] MainRunner: Processing ticket file: T018.json
+2026-06-07 20:34:30,749 [INFO] MainRunner: Processing ticket file: T019.json
+2026-06-07 20:34:30,762 [INFO] MainRunner: Processing ticket file: T020.json
+2026-06-07 20:34:30,773 [INFO] MainRunner: Processing ticket file: T021_invalid.json
+2026-06-07 20:34:30,773 [ERROR] MainRunner: Invalid JSON file T021_invalid.json: Unterminated string starting at: line 4 column 18 (char 73). Skipping.
+2026-06-07 20:34:30,774 [INFO] MainRunner: Successfully wrote 20 results to output\results.csv
+2026-06-07 20:34:30,774 [INFO] MainRunner: Saved classification report to output\report.txt
+2026-06-07 20:34:30,775 [INFO] MainRunner: Starting web dashboard server at http://127.0.0.1:8000 ...
