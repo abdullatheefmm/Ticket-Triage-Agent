@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T010",
+  "title": "Export CSV button is unresponsive",
+  "description": "Clicking the 'Export CSV' button on the dashboard reports list does nothing. No logs or errors shown."
+}

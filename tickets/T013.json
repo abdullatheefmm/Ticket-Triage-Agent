@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T013",
+  "title": "Mobile navigation menu layout issues",
+  "description": "On iPhone 13, the navigation links overlap and are unclickable in landscape mode."
+}

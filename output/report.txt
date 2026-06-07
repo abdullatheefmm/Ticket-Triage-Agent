@@ -1,0 +1,24 @@
+============================================================
+              TICKET TRIAGE PROCESSING REPORT
+============================================================
+Total Tickets Found:      21
+Successfully Processed:   20
+Failed/Invalid JSON:      1
+
+Category Breakdown:
+ - Bug:                    7
+ - Billing:                6
+ - Feature:                3
+ - Other:                  4
+
+Priority Breakdown:
+ - P1 (Critical):          5
+ - P2 (High):              7
+ - P3 (Medium):            1
+ - P4 (Low):               7
+
+Storage Details:
+ - Log file:               triage.log
+ - CSV Output:             output\results.csv
+ - SQLite Database:        database\tickets.db
+============================================================

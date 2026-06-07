@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T012",
+  "title": "Multi-factor authentication (MFA) support",
+  "description": "Please add support for Google Authenticator or SMS MFA to secure customer logins."
+}

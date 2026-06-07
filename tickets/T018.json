@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T018",
+  "title": "Severe dashboard latency",
+  "description": "The dashboard page takes over 15 seconds to load and shows lag. Timeout errors occur occasionally."
+}

@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T015",
+  "title": "CRITICAL: API key exposure in console logs",
+  "description": "The client application logs the OpenAI API key to the console in debug mode. Security risk of exposure!"
+}

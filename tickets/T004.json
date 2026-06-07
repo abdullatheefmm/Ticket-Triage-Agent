@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T004",
+  "title": "Typo in checkout header",
+  "description": "The checkout page header says 'Proceed to Payement' instead of 'Payment'. Just a small typo."
+}

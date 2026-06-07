@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T002",
+  "title": "Database connection error on checkout",
+  "description": "Getting a 500 error and db error when trying to complete the purchase. Entire checkout is blocked."
+}

@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T007",
+  "title": "Profile avatar upload fails",
+  "description": "Fails to upload a 2MB JPEG image. Shows a broken image upload warning without any details."
+}

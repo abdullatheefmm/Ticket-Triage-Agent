@@ -1,0 +1,5 @@
+{
+  "ticket_id": "T017",
+  "title": "Bulk data export scheduling feature",
+  "description": "We need an option to schedule automated database backups/exports to our S3 bucket weekly."
+}
